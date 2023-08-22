@@ -4,7 +4,7 @@ A simple implementation of the Tic Tac Toe game using vanilla JavaScript and the
 
 ## Demo
 
-[Play the Tic Tac Toe Game](https://yourusername.github.io/tic-tac-toe-game)
+[Play the Tic Tac Toe Game](https://magnificent-seahorse-0a5dc4.netlify.app)
 
 ## Features
 

@@ -8,7 +8,6 @@ A simple implementation of the Tic Tac Toe game using vanilla JavaScript and the
 
 ## Features
 
-- Play against another player on the same device.
 - Responsive design for various screen sizes.
 - Win detection and end game state.
 - Reset the game and start over.

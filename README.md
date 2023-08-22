@@ -29,8 +29,8 @@ A simple implementation of the Tic Tac Toe game using vanilla JavaScript and the
 ## Project Structure
 
 |-- index.html
-|-- style/style.css
-|-- js/app.js
+|-- style.css
+|-- app.js
 |-- README.md
 
 - `index.html`: The main HTML file that contains the game board.
@@ -47,7 +47,7 @@ Contributions are welcome! If you find any issues or want to add improvements, f
 
 ## Credits
 
-- Created by [Your Name](https://github.com/gilmore-1)
+- Created by [gilmore-1](https://github.com/gilmore-1)
 
 ## License
 
